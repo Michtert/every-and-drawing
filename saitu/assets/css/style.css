@@ -27,7 +27,7 @@ a{
   color: currentColor;
   transition: .2s ease-in-out;
 }
-h2 {
+h1{
   text-align: center;
   margin: 0;
   font-family: "ComicSansMS3";
@@ -297,7 +297,7 @@ ul.wyp {
 .all_new { 
   position: relative; 
   overflow: hidden; 
-  min-width: 60px; 
+  min-width: 70px; 
   margin: 10px; 
   background: var(--newPhoto, var(--defaultBackground, red)); 
   background-size: auto 120%; 
